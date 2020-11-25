@@ -10,10 +10,8 @@
 
 Требования:
 - ECMAScript 6
-- Модульная система
-- SASS
+- SCSS
 - Не использовать фреймворки и библиотеки
-- Fetch API
 - Адаптивность
 
 Эндпоинты для:
@@ -23,4 +21,3 @@
 
 
 Макет страницы смотреть на [figma](https://www.figma.com/file/R5a8WGXugppqa8EtcYIbbF/TEST).
-
