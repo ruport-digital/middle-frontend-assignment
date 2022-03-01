@@ -18,6 +18,9 @@
 - [Получения данных](https://private-9d5e37a-testassignment.apiary-mock.com/get-bears) - GET
 - [Принять заявку](https://private-9d5e37a-testassignment.apiary-mock.com/resolve-bear) - POST
 - [Отклонить заявку](https://private-9d5e37a-testassignment.apiary-mock.com/reject-bear) - POST
+- [Получить данные карточки с id 1](https://private-dd610-ruporttestassignment.apiary-mock.com/get-bears/1) - GET
+- [Получить данные карточки с id 2](https://private-dd610-ruporttestassignment.apiary-mock.com/get-bears/2) - GET
+- [Получить данные карточки с id 3](https://private-dd610-ruporttestassignment.apiary-mock.com/get-bears/3) - GET
 
 
 Макет страницы смотреть на [figma](https://www.figma.com/file/R5a8WGXugppqa8EtcYIbbF/TEST).
